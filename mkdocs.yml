@@ -1,0 +1,7 @@
+site_name: ecLabNote
+pages:
+- ['index.md', 'Introduction']
+- ['getting-started.md', 'Getting started']
+- ['create-experiment.md', 'Create experiments']
+- ['search.md', 'Search']
+- ['back-reference.md', 'Back referencing']
