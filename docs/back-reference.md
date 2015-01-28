@@ -1,4 +1,4 @@
-## Back referencing
+# Back referencing
 
 Reactants and reagents can be back referenced to a product already in the groups labbooks. This greatly simplifies the traceability of a reaction. In addition, batch information can be added, such as "crystallization number 2" or "SigmaAldrich, product number S576050, lot No 353425".
 
